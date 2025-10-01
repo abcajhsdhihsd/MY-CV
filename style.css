@@ -1,0 +1,38 @@
+ .header {
+        background-color: #3a4472;
+        z-index: -1;
+        margin: 0px;
+        padding: 0px;
+ }
+
+ .footer {
+        padding: 20px;
+        background-color: #2d343f;
+        color: white;
+        text-align: center;
+ }
+
+.middle {
+        background-color: #bfc0c0;
+ }
+
+.pro_pic {
+       float: left; 
+       border-radius:180px; 
+       z-index: +1;
+       border:solid 11px;
+       border-color: white;
+}
+
+.sansation-bold {
+  font-family: "Sansation", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  color: white;
+}
+
+body {
+       font-family: "Sansation", sans-serif;
+       margin: 0px;
+       padding: 0px;
+}
